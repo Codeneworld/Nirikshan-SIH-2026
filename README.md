@@ -1,17 +1,18 @@
-# app
+Nirikshan is an AI-assisted packaged product inspection prototype developed for Smart India Hackathon 2026 Problem Statement 26034.
 
-A new Flutter project.
+This release demonstrates:
 
-## Getting Started
+• Package image capture/upload
+• OCR-based text extraction
+• Declaration identification
+• Rule-based screening
+• Potential issue detection
+• Evidence image storage
+• Inspection history
+• Inspector notes
+• PDF report generation
 
-This project is a starting point for a Flutter application.
+Technology:
+Flutter + Dart + Google ML Kit + SharedPreferences + PDF/Printing
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This prototype performs preliminary declaration screening. Final verification and enforcement decisions remain with the authorized inspector.
