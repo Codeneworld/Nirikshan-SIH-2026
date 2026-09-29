@@ -24,15 +24,16 @@
 <a href="https://github.com/Codeneworld/Nirikshan-SIH-2026/releases/tag/v1.0.0">
 <img src="https://img.shields.io/badge/Download-Android%20APK-success?style=for-the-badge&logo=android">
 </a>
-
-<div class="s">
-<img src="assets/screenshots/dashboard.jpeg" width="200" height="300"> &nbsp; &nbsp;&nbsp;&nbsp;
-<img src="assets/screenshots/inspection.jpeg" width="200" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/screenshots/scan.jpeg" width="200" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/screenshots/analysis.jpeg" width="200" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/screenshots/history.jpeg" width="200" height="300">&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<div>
+<img src="assets/screenshots/dashboard.jpeg" width="200" height="300"> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/screenshots/inspection.jpeg" width="200" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/screenshots/scan.jpeg" width="200" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/screenshots/analysis.jpeg" width="200" height="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/screenshots/history.jpeg" width="200" height="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="assets/screenshots/report.jpeg" width="200" height="300">
 </div>
+<br>
 ## ✨ What Nirikshan Can Do
 
 | 📷 Capture | 🔎 Analyze | 📋 Screen |
