@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo/nirikshan_logo.png" width="140">
+<img src="assets/logo/nirikshan_logo.png.jpeg" width="140">
 
 # 🔍 NIRIKSHAN
 
