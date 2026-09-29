@@ -25,12 +25,12 @@
 <img src="https://img.shields.io/badge/Download-Android%20APK-success?style=for-the-badge&logo=android">
 </a>
 
-<img src="assets/screenshots/dashboard.jpeg">
-<img src="assets/screenshots/inspection.jpeg">
-<img src="assets/screenshots/scan.jpeg">
-<img src="assets/screenshots/analysis.jpeg">
-<img src="assets/screenshots/history.jpeg">
-<img src="assets/screenshots/report.jpeg">
+<img src="assets/screenshots/dashboard.jpeg" width="200" height="200">
+<img src="assets/screenshots/inspection.jpeg" width="200" height="200">
+<img src="assets/screenshots/scan.jpeg" width="200" height="200">
+<img src="assets/screenshots/analysis.jpeg" width="200" height="200">
+<img src="assets/screenshots/history.jpeg" width="200" height="200">
+<img src="assets/screenshots/report.jpeg" width="200" height="200">
 
 ## ✨ What Nirikshan Can Do
 
