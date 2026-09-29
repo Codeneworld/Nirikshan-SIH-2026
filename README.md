@@ -6,9 +6,4 @@
 
 ### AI-Assisted Packaged Product Inspection Assistant
 
-<p>
-Transforming package photographs into structured,
-evidence-backed digital inspections.
-</p>
-
 </div>
