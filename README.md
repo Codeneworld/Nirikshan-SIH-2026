@@ -17,3 +17,10 @@
 ![SIH 2026](https://img.shields.io/badge/SIH-2026-orange)
 
 </div>
+
+
+## 📦 Download
+
+<a href="https://github.com/Codeneworld/Nirikshan-SIH-2026/releases/tag/v1.0.0">
+<img src="https://img.shields.io/badge/Download-Android%20APK-success?style=for-the-badge&logo=android">
+</a>
