@@ -1,18 +1,14 @@
-Nirikshan is an AI-assisted packaged product inspection prototype developed for Smart India Hackathon 2026 Problem Statement 26034.
+<div align="center">
 
-This release demonstrates:
+<img src="assets/logo/nirikshan_logo.png" width="140">
 
-• Package image capture/upload
-• OCR-based text extraction
-• Declaration identification
-• Rule-based screening
-• Potential issue detection
-• Evidence image storage
-• Inspection history
-• Inspector notes
-• PDF report generation
+# 🔍 NIRIKSHAN
 
-Technology:
-Flutter + Dart + Google ML Kit + SharedPreferences + PDF/Printing
+### AI-Assisted Packaged Product Inspection Assistant
 
-This prototype performs preliminary declaration screening. Final verification and enforcement decisions remain with the authorized inspector.
+<p>
+Transforming package photographs into structured,
+evidence-backed digital inspections.
+</p>
+
+</div>
