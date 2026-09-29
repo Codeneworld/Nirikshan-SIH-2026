@@ -24,3 +24,136 @@
 <a href="https://github.com/Codeneworld/Nirikshan-SIH-2026/releases/tag/v1.0.0">
 <img src="https://img.shields.io/badge/Download-Android%20APK-success?style=for-the-badge&logo=android">
 </a>
+
+<img src="assets/screenshots/dashboard.jpeg">
+<img src="assets/screenshots/inspection.jpeg">
+<img src="assets/screenshots/scan.jpeg">
+<img src="assets/screenshots/analysis.jpeg">
+<img src="assets/screenshots/history.jpeg">
+<img src="assets/screenshots/report.jpeg">
+
+## ✨ What Nirikshan Can Do
+
+| 📷 Capture | 🔎 Analyze | 📋 Screen |
+|---|---|---|
+| Capture or upload package images | Extract text using OCR | Check configured declarations |
+
+| 🚨 Identify | 📝 Document | 📄 Report |
+|---|---|---|
+| Highlight potential issues | Add inspector notes | Generate PDF reports |
+
+## ⚡ How It Works
+
+<div align="center">
+
+**01 — Capture**
+
+📷  
+Capture or upload a package photograph.
+
+↓
+
+**02 — Extract**
+
+🔎  
+Google ML Kit extracts visible text.
+
+↓
+
+**03 — Identify**
+
+📋  
+Nirikshan identifies important declarations.
+
+↓
+
+**04 — Screen**
+
+⚙️  
+The rule engine performs declaration screening.
+
+↓
+
+**05 — Verify**
+
+👤  
+Inspector reviews potential issues.
+
+↓
+
+**06 — Report**
+
+📄  
+Generate an evidence-backed PDF report.
+
+</div>
+
+NIRIKSHAN
+                        │
+                        ▼
+              ┌──────────────────┐
+              │  Flutter / Dart  │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ Camera / Gallery │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │   Google ML Kit  │
+              │       OCR        │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ Declaration      │
+              │ Parser           │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │ Rule-Based       │
+              │ Screening Engine │
+              └────────┬─────────┘
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+       Potential Issues      Detected Data
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+              ┌──────────────────┐
+              │ Inspector Review │
+              └────────┬─────────┘
+                       │
+                ┌──────┴──────┐
+                ▼             ▼
+             History        PDF Report
+
+## 🧩 Current Prototype
+
+✅ Flutter Android application  
+✅ Camera / gallery input  
+✅ Google ML Kit OCR  
+✅ Declaration extraction  
+✅ Rule-based screening  
+✅ Evidence image  
+✅ Inspector notes  
+✅ Local inspection history  
+✅ PDF report generation  
+
+## 🔮 Production Roadmap
+
+🔄 Advanced image preprocessing  
+🔄 Multilingual OCR  
+🔄 Placement verification  
+🔄 Readability analysis  
+🔄 Advanced computer vision  
+
+🔮 FastAPI backend  
+🔮 PostgreSQL  
+🔮 Cloud synchronization  
+🔮 Web dashboard  
+🔮 Role-based authentication
